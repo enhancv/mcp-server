@@ -9,6 +9,7 @@
 </p>
 
 <p align="center">
+  <a href="https://claude.ai/directory/enhancv">Add to Claude</a> ·
   <a href="https://cursor.com/install-mcp?name=enhancv&config=eyJ1cmwiOiJodHRwczovL2FwaS5lbmhhbmN2LmNvbS9tY3AifQ%3D%3D">Add to Cursor</a> ·
   <a href="https://vscode.dev/redirect?url=vscode%3Amcp%2Finstall%3F%257B%2522name%2522%253A%2522enhancv%2522%252C%2522type%2522%253A%2522http%2522%252C%2522url%2522%253A%2522https%253A%252F%252Fapi.enhancv.com%252Fmcp%2522%257D">Add to VS Code</a> ·
   <a href="https://help.enhancv.com/en/articles/18458503-connect-enhancv-to-claude-chatgpt-and-other-ai-apps">Docs</a>
@@ -42,9 +43,10 @@ If the resume is open in the Enhancv editor, you see each change appear as your 
 
 ### Claude (web, desktop and mobile)
 
-1. Open [Claude's connector settings](https://claude.ai/customize/connectors).
-2. Add a custom connector with the URL `https://api.enhancv.com/mcp`.
-3. Sign in to Enhancv and allow the connection.
+1. Open [Enhancv in Claude's connector directory](https://claude.ai/directory/enhancv).
+2. Select **Connect**, sign in to Enhancv and allow the connection.
+
+If your Claude organization doesn't allow directory connectors, add it as a custom connector instead: open [Claude's connector settings](https://claude.ai/customize/connectors) and add a custom connector with the URL `https://api.enhancv.com/mcp`.
 
 ### ChatGPT
 
